@@ -20,7 +20,7 @@ module.exports = {
         "linear-gradient(90deg, #24CBFF 14.53%, #FC59FF 69.36%, #FFBD0C 117.73%)",
       }),
       fontFamily: {
-        playfair: ["Playfair Display", "serif"],
+        playfair: ["Poppins", "Playfair Display", "serif"],
         opensans: ["Open Sans", "sans-serif"],
       },
       content: {                /** Add images to the "before:hover CSS tag" **/
