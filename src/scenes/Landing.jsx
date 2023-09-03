@@ -57,7 +57,7 @@ const Landing = ({ setSelectedPage }) => {
 
           <p className="mt-10 mb-7 text-m text-center md:text-center font-playfair font-semibold">
             Hello stranger, I am Antonio, a freelance web designer and full stack developer living & working in Málaga. I  
-             &nbsp;<span className="text-yellow">enjoy</span> developing and <span className="text-red">working</span> with web applications, both on my own projects and for clients. Write a message, give me a call and we'll grab a coffee and talk about your &nbsp;<span className="text-blue">project</span>.
+             &nbsp;<span className="text-yellow">enjoy</span> developing and <span className="text-red">working</span> with web applications, both on my own projects and for clients. Write a message, give me a call and we'll grab a coffee and talk about your &nbsp;<span className="text-blue">projects</span>.
           </p>
         </motion.div>
 
